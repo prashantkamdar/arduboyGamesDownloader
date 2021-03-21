@@ -3,7 +3,7 @@
 Python script to download all hex files from https://arduboy.ried.cl/ \
 Install the pre-requisites used in the **import** section \
 Tested on python3 \
-Games will get downloaded into the **hex** directory 
+Games will get downloaded into the **hex** directory and console will output the name of the game being downloaded
 
 ## DISCLAIMER:
 
